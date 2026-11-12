@@ -1,0 +1,5 @@
+transformers 5.17.0, torch 2.11.0+cu130, GPU: NVIDIA RTX PRO 6000 Blackwell Server Edition
+qwen3.6-35b-a3b: 8572 decode tokens, 21.9 tok/s
+gemma4-26b-a4b: 9180 decode tokens, 25.1 tok/s
+qwen3-30b-a3b: 8899 decode tokens, 29.1 tok/s
+gpt-oss-20b: 8946 decode tokens, 48.3 tok/s
