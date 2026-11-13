@@ -1,0 +1,5 @@
+Found start symbol '__champsim_start_trace' in image /home/utkarsh123/llama.cpp/build/bin/llama-simple
+Found stop symbol '__champsim_stop_trace' in image /home/utkarsh123/llama.cpp/build/bin/llama-simple
+The meaning of life is a topic of[PIN] Started tracing at IP: 0x0x00005f793439e670
+ ongoing debate among philosophers, scientists[PIN] Stopped tracing at IP: 0x0x00005f793439e680 after 408962360 instructions
+, and theologians. It is a
