@@ -1,0 +1,3 @@
+qwen N=965750149 W=241437537 S=704997610
+qwen_llc24_log: LRU replay: 538,727 hits vs ChampSim LRU 538,727 -> MATCH Belady: TOTAL hit rate 11.26%, LOAD hit rate 9.04% 
+JOB_QWEN_DONE
