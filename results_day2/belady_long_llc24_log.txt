@@ -1,0 +1,4 @@
+11,197,795 logged accesses, ROI starts at 3,909,018
+LRU replay: 510,578 hits vs ChampSim LRU 510,578 -> MATCH
+Belady: TOTAL hit rate 28.41%, LOAD hit rate 25.85%
+ChampSim LRU LOAD hit rate on this run: 4.43%
