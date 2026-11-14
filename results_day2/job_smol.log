@@ -1,0 +1,3 @@
+smol_llc24_log: LRU replay: 321,827 hits vs ChampSim LRU 321,827 -> MATCH Belady: TOTAL hit rate 31.32%, LOAD hit rate 28.67% 
+smol_llc48_log: LRU replay: 372,833 hits vs ChampSim LRU 372,833 -> MATCH Belady: TOTAL hit rate 57.33%, LOAD hit rate 55.68% 
+JOB_SMOL_DONE
