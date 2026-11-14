@@ -1,0 +1,3 @@
+long N=940043495 W=313347831 S=607894795
+long_llc24_log: LRU replay: 510,578 hits vs ChampSim LRU 510,578 -> MATCH Belady: TOTAL hit rate 28.41%, LOAD hit rate 25.85% 
+JOB_LONG_DONE
